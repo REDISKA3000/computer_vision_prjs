@@ -1,5 +1,5 @@
 # Computer Vision projects
-
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.algotive.ai%2Fblog%2Fwhat-is-computer-vision-and-how-does-it-work-with-artificial-intelligence&psig=AOvVaw3Bv9-bK_Qlj1_nfFT_6cqD&ust=1694364551253000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPClqfv9nYEDFQAAAAAdAAAAABAE)
 Here I present the results of my experinece and exploration in CV. There are 5 projects that consider distinct tasks from basic classification to stylization using advanced DL architectures.
 
 ### Simpsons classification. 
